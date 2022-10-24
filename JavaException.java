@@ -6,5 +6,11 @@ public class JavaExceptionExample{
    }catch(ArithmeticException e){System.out.println(e);}  
    //rest code of the program   
    System.out.println("rest of the code...");  
-  }  
+   System.out.println("rest of the code...");  
+    
+  } 
+  throw{
+   System.out.println("rest of the code...");  
+    
+  }
 }  
