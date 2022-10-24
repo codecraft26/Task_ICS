@@ -5,6 +5,7 @@ public class Regex {
         String emailId = "leeroy.jenkins@wow.com";
         String userId = "leeroy#78jenkins";
         String accSerialId = "WoW-ABilOpZ00523ABilOpZ_a00Z9";
+        String accSerialI = "WoW-ABilOpZ00523ABilOpZ_a00Z9";
         //Splitting Full Name Into an Array:
         String[] nameSplit = name.toLowerCase().split(" ");
         /**
